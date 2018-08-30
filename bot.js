@@ -377,4 +377,5 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {
 }
 });
 
+
 client.login(process.env.BOT_TOKEN);
